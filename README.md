@@ -1,0 +1,2 @@
+# NewProject
+Practicing Git
